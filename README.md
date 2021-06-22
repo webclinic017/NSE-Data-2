@@ -6,7 +6,35 @@
 
 ### NSE Minute Data
 
-  This folder [1] contains minute data for Nifty 50 stocks, Next 100 Mid-cap stocks and 9 Nifty indices from 1st Jan 2017 to 31st Dec 2020. 
+  This folder contains minute data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE 3 Minute Data
+
+  This folder contains 3 minute data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE 5 Minute Data
+
+  This folder contains 5 minute data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE 10 Minute Data
+
+  This folder contains 10 minute data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE 15 Minute Data
+
+  This folder contains 15 minute data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE 30 Minute Data
+
+  This folder contains 30 minute data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE 1 Hour Data
+
+  This folder contains 1 Hour data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
+
+### NSE Daily Data
+
+  This folder contains Daily data for Nifty 50 stocks from 2nd Feb 2015 to 22nd June 2021. 
 
 ### NSE tick or Live data
 
@@ -64,6 +92,4 @@
   
 
 
-Ref: 
 
-  > [1] https://www.kaggle.com/hk7797/stock-market-india
