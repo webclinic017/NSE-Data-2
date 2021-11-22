@@ -60,7 +60,7 @@
     # NIFTY PVT BANK 
     # NIFTY REALTY
 
-  https://github.com/debaonline4u/NSE-Data/tree/main/Live%20NSE%20Tick%20Data/NSE%20Index%20Tick%20Data
+  
   
   > Stocks Live Tick data . 
 
