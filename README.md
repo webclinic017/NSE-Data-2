@@ -5,7 +5,14 @@
   The soul purpose to store live data is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
   This folder contains stocks with different time intervals. Those are: 
 
-  1 Minute, 3 Minutes, 5 Minutes, 10 Minutes, 15 Minutes, 30 Minutes, 60 Minutes and Daily data. 
+    1 Minute, 
+    3 Minutes, 
+    5 Minutes, 
+    10 Minutes, 
+    15 Minutes, 
+    30 Minutes, 
+    60 Minutes and 
+    Daily data. 
 
 
     List of Nifty 50 stocks
