@@ -15,6 +15,10 @@
     Daily data. 
 
 
+    List of 2 indices
+
+    # Nifty 50 and   # Nifty Bank
+
     List of Nifty 50 stocks
 
     # ADANIPORTS     # ASIANPAINT    # AXISBANK
