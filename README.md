@@ -8,7 +8,7 @@
   1 Minute, 3 Minutes, 5 Minutes, 10 Minutes, 15 Minutes, 30 Minutes, 60 Minutes and Daily data. 
 
 
-    This folder contains live tick feed for stocks in Nifty 50. 
+    List of Nifty 50 stocks
 
     # ADANIPORTS     # ASIANPAINT    # AXISBANK
     # BAJAJ-AUTO     # BAJAJFINSV    # BAJFINANCE
@@ -29,6 +29,26 @@
     # UPL            # WIPRO
 
 
+    List of Nifty Next 50 stocks
+
+    # ACC           # ADANIENT        #ADANIGREEN 
+    # AMBUJACEM     # APOLLOHOSP      # AUROPHARMA 
+    # DMART         # BAJAJHLDNG      # BANDHANBNK 
+    # BANKBARODA    # BERGEPAINT      # BIOCON 
+    # BOSCHLTD      # CADILAHC        # CHOLAFIN
+    # COLPAL        # DLF             # DABUR 
+    # GAIL          # GLAND           # GODREJCP 
+    # HDFCAMC       # HAVELLS         # HINDPETRO 
+    # ICICIGI       # ICICIPRULI      # IGL 
+    # INDUSTOWER    # NAUKRI          # INDIGO 
+    # JINDALSTEL    # JUBLFOOD        # LTI 
+    # LUPIN         # MARICO          # MUTHOOTFIN 
+    # NMDC          # PIIND           # PIDILITIND 
+    # PEL           # PGHH            # PNB 
+    # SBICARD       # SIEMENS         # SAIL 
+    # TORNTPHARM    # MCDOWELL-N      # VEDL 
+    # YESBANK
+                    
   
 
   
