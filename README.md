@@ -1,8 +1,11 @@
 ## NSE-Data
 
-  Live Nifty 50 Indices and stocks data are collected and uploaded here.
-  Both NSE Live tick data and minutes data for NSE indexes and NSE stocks are uploaded. 
+  Live Nifty 50 Indices and stocks data are collected and uploaded here, from Jan 2015 to Nov 2021. 
+  Stocks in Nifty 50 and NSE Next 50 data are uploaded here.  
   The soul purpose to store live data is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
+  This folder contains stocks with different time intervals. Those are: 
+
+  1 Minute, 3 Minutes, 5 Minutes, 10 Minutes, 15 Minutes, 30 Minutes, 60 Minutes and Daily data. 
 
 ### NSE Minute Data
 
