@@ -1,4 +1,5 @@
 ## NSE-Data
+(Recent update - 20th Feb 2022)
 
   Live Nifty 50 Indices and stocks data are collected and uploaded here, from Jan 2015 to Nov 2021. 
   Stocks in Nifty 50 and NSE Next 50 data are uploaded here.  
