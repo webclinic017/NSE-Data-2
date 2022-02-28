@@ -1,7 +1,8 @@
 ## NSE-Data
 (Recent update - 20th Feb 2022)
+Size of data: 6.5 GB
 
-  Live Nifty 50 Indices and stocks data are collected and uploaded here, from Jan 2015 to Nov 2021. 
+  Live Nifty 50 Indices and stocks data are collected and uploaded here, from Jan 2015 to 18th Feb 2022. 
   Stocks in Nifty 50 and NSE Next 50 data are uploaded here.  
   The soul purpose to store live data is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
   This folder contains stocks with different time intervals. Those are: 
