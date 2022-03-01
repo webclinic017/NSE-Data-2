@@ -1,6 +1,8 @@
 ## NSE-Data
 (Recent update - 20th Feb 2022)
 Size of data: 6.5 GB
+You can also download from Google Drive https://drive.google.com/drive/folders/10pmUnHbT01rORkofkTzl1hB1eNtPZrOR?usp=sharing
+Kaggle Link for Dataset: https://www.kaggle.com/debashis74017/nifty-50-minute-level-data
 
   Live Nifty 50 Indices and stocks data are collected and uploaded here, from Jan 2015 to 18th Feb 2022. 
   Stocks in Nifty 50 and NSE Next 50 data are uploaded here.  
@@ -53,7 +55,7 @@ Size of data: 6.5 GB
     # GAIL          # GLAND           # GODREJCP 
     # HDFCAMC       # HAVELLS         # HINDPETRO 
     # ICICIGI       # ICICIPRULI      # IGL 
-    # INDUSTOWER    # NAUKRI          # INDIGO 
+    # INDUSTOWER    # NAUKRI          # INDIGO neural network functions
     # JINDALSTEL    # JUBLFOOD        # LTI 
     # LUPIN         # MARICO          # MUTHOOTFIN 
     # NMDC          # PIIND           # PIDILITIND 
